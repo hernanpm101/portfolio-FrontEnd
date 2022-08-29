@@ -2,3 +2,8 @@ h1 {
     font-size: 25px;
     color: blue;
 }
+
+.contenedor-icono i {
+    font-size: 40px;
+    color: green;
+}
