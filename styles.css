@@ -71,7 +71,7 @@ main {
 
 
 svg circle {
-    stroke-dasharray: 150;
+    stroke-dasharray: 100;
     transition: all .8s ease-in-out;
 }
 
