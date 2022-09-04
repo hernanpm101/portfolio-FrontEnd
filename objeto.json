@@ -1,0 +1,10 @@
+{
+    "nombreLibro": "El hacedor",
+    "precio": 500,
+    "seVendio": true,
+    "biblioteca": [
+        "suspenso",
+        "40 unidades",
+        "adultos"
+    ]
+}
